@@ -5,7 +5,7 @@ import { Brain, Users, ChartBar, Shield, MessageCircle } from "lucide-react";
 const links = [
   {
     name: "Dashboard",
-    path: "/",
+    path: "/dashboard",
     icon: Brain,
   },
 

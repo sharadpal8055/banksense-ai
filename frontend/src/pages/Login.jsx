@@ -21,7 +21,7 @@ function Login() {
     try {
       await login(form);
 
-      navigate("/");
+      navigate("/dashboard");
     } catch (error) {
       alert("Invalid Login");
     }
