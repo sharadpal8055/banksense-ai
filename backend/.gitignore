@@ -1,0 +1,113 @@
+# ======================
+# Dependencies
+# ======================
+
+node_modules/
+
+
+# ======================
+# Environment Variables
+# ======================
+
+.env
+.env.local
+.env.production
+
+
+# ======================
+# Logs
+# ======================
+
+logs/
+
+*.log
+
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+
+# ======================
+# Runtime files
+# ======================
+
+pids/
+
+*.pid
+
+*.seed
+
+*.pid.lock
+
+
+# ======================
+# Coverage
+# ======================
+
+coverage/
+
+
+# ======================
+# Build Output
+# ======================
+
+dist/
+build/
+
+
+# ======================
+# Cache
+# ======================
+
+.cache/
+
+
+# ======================
+# Uploads / Generated Files
+# ======================
+
+uploads/
+
+temp/
+
+tmp/
+
+
+# ======================
+# Database Dumps
+# ======================
+
+*.sqlite
+
+*.db
+
+dump/
+
+
+# ======================
+# IDE
+# ======================
+
+.vscode/*
+!.vscode/extensions.json
+
+.idea/
+
+
+# ======================
+# OS Files
+# ======================
+
+.DS_Store
+
+Thumbs.db
+
+
+# ======================
+# Deployment
+# ======================
+
+.vercel/
+
+.render/
+
