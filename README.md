@@ -375,9 +375,9 @@ Include screenshots of:
 
 B.Tech CSE | Full Stack Developer | AI Enthusiast
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sharadpal8055
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/sharadpal8055/
 
 ---
 
